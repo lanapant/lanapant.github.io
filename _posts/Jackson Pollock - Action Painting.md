@@ -2,7 +2,7 @@
 layout : post
 title : Jackson Pollock
 ---
-#Jackson Pollock
+#Jackson Pollock (1912 - 1956)
 
 ![Jackson Pollock Portrait](http://www.fondationbeyeler.ch/sites/default/files/fondation_beyeler/sammlung/kuenstler/jackson_pollock/pollock2.jpg?1282660252)
 
@@ -32,3 +32,5 @@ title : Jackson Pollock
 ### Number 2, 1949
 
 ![J.Pollock Number 2](http://wcma.williams.edu/files/2011/03/Pollock-Banner.jpg)
+
+[Read more about Jackson Pollock](http://en.wikipedia.org/wiki/Jackson_Pollock)
