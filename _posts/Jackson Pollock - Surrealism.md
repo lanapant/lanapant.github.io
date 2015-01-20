@@ -16,6 +16,7 @@ title : Jackson Pollock
 ------------- | -------------
 ![J.Pollock at work](http://creativegames.org.uk/modules/Art_Technology/Cage_Duchamp/images/J_Pollok_working.jpg)   |![J.Pollock at work](http://creativegames.org.uk/modules/Art_Technology/Cage_Duchamp/images/J_Pollok_working.jpg) 
 
+
 ## His most famous paintings :
 
 ###Number 5, 1948
@@ -23,3 +24,7 @@ title : Jackson Pollock
 *The price tag on the painting was said to be a $140 million*
 
 ![Pollock number 5](http://cdn.pursuitist.com/wp-content/uploads/2010/09/nov-fifth-1948-by-jackson-pollock-140mil_msp1.jpg)
+
+###Number 1, 1950 (Lavender Mist)
+
+![J.Pollock Number 1](http://www.moma.org/collection_images/resized/805/w500h420/CRI_223805.jpg)
