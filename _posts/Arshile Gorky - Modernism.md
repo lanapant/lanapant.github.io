@@ -9,8 +9,8 @@ title: Arshile Gorky
 
 First Header  | Second Header
 ------------- | -------------
-![Arshile Gorky Picture](http://uploads8.wikiart.org/images/vostanik-manuk-adoyan-%D5%A1%D6%80%D5%B7%D5%AB%D5%AC-%D5%A3%D5%B8%D6%80%D5%AF%D5%AB-%D5%BE%D5%B8%D5%BD%D5%BF%D5%A1%D5%B6%D5%AB%D5%AF-%D5%B4%D5%A1%D5%B6%D5%B8%D6%82%D5%AF-%D5%A1%D5%A4%D5%B8%D5%B5%D5%A1%D5%B6.jpg!Portrait.jpg)  | "bla bla"
-Content Cell  | Content Cell
+![Arshile Gorky Picture](http://uploads8.wikiart.org/images/vostanik-manuk-adoyan-%D5%A1%D6%80%D5%B7%D5%AB%D5%AC-%D5%A3%D5%B8%D6%80%D5%AF%D5%AB-%D5%BE%D5%B8%D5%BD%D5%BF%D5%A1%D5%B6%D5%AB%D5%AF-%D5%B4%D5%A1%D5%B6%D5%B8%D6%82%D5%AF-%D5%A1%D5%A4%D5%B8%D5%B5%D5%A1%D5%B6.jpg!Portrait.jpg)  | *"When something is finished, that means it's dead,doesn't it? I believe in everlastingness. I never finish a painting - I just stop working on it for a while. I like painting because it's something I never come to the end of."* - Arshile Gorky
+
 
 He was influenced by :
 * Cezanne
