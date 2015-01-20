@@ -12,6 +12,7 @@ He was influenced by :
 *Tanguy
 
 His most famous works :
+
 ![Water of the Flowery Mill ](http://imgc.allpostersimages.com/images/P-473-488-90/67/6738/7F5Z100Z/posters/arshile-gorky-water-of-the-flowery-mill.jpg)
 **Water of the Flowery Mill**
 
