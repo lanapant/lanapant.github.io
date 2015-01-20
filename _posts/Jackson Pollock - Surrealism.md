@@ -28,3 +28,7 @@ title : Jackson Pollock
 ###Number 1, 1950 (Lavender Mist)
 
 ![J.Pollock Number 1](http://www.moma.org/collection_images/resized/805/w500h420/CRI_223805.jpg)
+
+### Number 2, 1949
+
+![J.Pollock Number 2](http://wcma.williams.edu/files/2011/03/Pollock-Banner.jpg)
