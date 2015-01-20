@@ -7,6 +7,11 @@ title: Arshile Gorky
 
 **Arshile Gorky** was the *transitional figure*, the most important link between European Surralism and what was to follow. His early work shows a steady progression through the basic Modernist styles, typical of an artist in a provincial enviroment who is conscious of his own isolation.
 
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 He was influenced by :
 * Cezanne
 * Picasso
