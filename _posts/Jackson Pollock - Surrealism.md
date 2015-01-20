@@ -15,3 +15,11 @@ title : Jackson Pollock
 ![J.Pollock at work](http://i.telegraph.co.uk/multimedia/archive/02121/pollock1_2121582b.jpg)  | ![J.Pollock at work](http://choreograph.net/images/453.jpg) 
 ------------- | -------------
 ![J.Pollock at work](http://creativegames.org.uk/modules/Art_Technology/Cage_Duchamp/images/J_Pollok_working.jpg)   |![J.Pollock at work](http://creativegames.org.uk/modules/Art_Technology/Cage_Duchamp/images/J_Pollok_working.jpg) 
+
+## His most famous paintings :
+
+###Number 5, 1948
+
+* The price tag on the painting was said to be a $140 million*
+
+![Pollock number 5](http://cdn.pursuitist.com/wp-content/uploads/2010/09/nov-fifth-1948-by-jackson-pollock-140mil_msp1.jpg)
