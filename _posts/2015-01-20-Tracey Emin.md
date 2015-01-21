@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tracey Emin
+title: Tracey Emin (1963 -  )
 ---
-#Tracey Emin (1963 -  )
+
 
 ![Tracey Emin](http://i.guim.co.uk/static/w-620/h--/q-95/sys-images/Guardian/Pix/pictures/2014/8/12/1407836038334/Tracey-Emin-011.jpg)
 
