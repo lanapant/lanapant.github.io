@@ -1,8 +1,7 @@
 ---
 layout : post
-title : Jackson Pollock
+title : Jackson Pollock (1912 - 1956)
 ---
-#Jackson Pollock (1912 - 1956)
 
 ![Jackson Pollock Portrait](http://www.fondationbeyeler.ch/sites/default/files/fondation_beyeler/sammlung/kuenstler/jackson_pollock/pollock2.jpg?1282660252)
 
