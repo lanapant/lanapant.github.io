@@ -17,4 +17,7 @@ title: Francis Bacon
 ![F.Bacon](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/11/13/1384352487006/Three-Studies-of-Lucian-F-014.jpg)
 
 ###THREE STUDIES FOR SELF-PORTRAIT
-![F.Bacon](http://www.christies.com/lotfinder/LargeImage.aspx?image=http://www.christies.com/lotfinderimages/d51014/d5101425x.jpg)
+
+*Estimated price is $34 million*
+
+![F.Bacon](http://www.extravaganzi.com/wp-content/uploads/2011/07/Francis-Bacon-Three-Studies-for-Self-Portrait.jpg)
