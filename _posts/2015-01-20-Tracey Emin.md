@@ -14,7 +14,7 @@ Tracey Emin is an English artist. She is part of the group known as Britartists 
 
 Everyone I Have Ever Slept With 1963–1995 was a tent appliquéd with 102 names of the people she had slept with up to the time of its creation in 1995.[2] The title is often misinterpreted as a euphemism indicating sexual partners and the work termed "a list of all the people that Emin has ever had sex with", but is in fact intended more inclusively.
 
-* **"The Tent"** was sold for $60 000*
+*"The Tent" was sold for $60 000*
 
 ![The Tent](https://joshagraphic.files.wordpress.com/2012/03/screen-shot-2012-03-27-at-10-12-53.png)
 
