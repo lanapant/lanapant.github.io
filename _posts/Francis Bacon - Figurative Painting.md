@@ -16,7 +16,7 @@ title: Francis Bacon
 
 ![F.Bacon](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/11/13/1384352487006/Three-Studies-of-Lucian-F-014.jpg)
 
-###THREE STUDIES FOR SELF-PORTRAIT
+###Three Studies For Self-Portrait
 
 *Estimated price is $34 million*
 
@@ -25,3 +25,5 @@ title: Francis Bacon
 ### Crucifixion (1933)
 
 ![F.Bacon](http://www.francisbaconshop.com/include/images/products/gallery/gallery2Image_francis_bacon_mens_t_shirt_1348662740.jpg)
+
+[Read more about Francis Bacon ](http://en.wikipedia.org/wiki/Francis_Bacon_%28artist%29)
