@@ -11,9 +11,9 @@ title : Jackson Pollock (1912 - 1956)
 
 ## J. Pollock at work 
 
-![J.Pollock at work](http://i.telegraph.co.uk/multimedia/archive/02121/pollock1_2121582b.jpg)  | ![J.Pollock at work](http://choreograph.net/images/453.jpg) 
-------------- | -------------
-![J.Pollock at work](http://creativegames.org.uk/modules/Art_Technology/Cage_Duchamp/images/J_Pollok_working.jpg)   |![J.Pollock at work](http://creativegames.org.uk/modules/Art_Technology/Cage_Duchamp/images/J_Pollok_working.jpg) 
+![J.Pollock at work](http://i.telegraph.co.uk/multimedia/archive/02121/pollock1_2121582b.jpg)
+![J.Pollock at work](http://choreograph.net/images/453.jpg) 
+![J.Pollock at work](http://creativegames.org.uk/modules/Art_Technology/Cage_Duchamp/images/J_Pollok_working.jpg)   ![J.Pollock at work](http://creativegames.org.uk/modules/Art_Technology/Cage_Duchamp/images/J_Pollok_working.jpg) 
 
 
 ## His most famous paintings :
@@ -36,7 +36,4 @@ title : Jackson Pollock (1912 - 1956)
 
 
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+
