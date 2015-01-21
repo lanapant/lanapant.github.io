@@ -8,10 +8,7 @@ title: Pedro Campos Hyperrealism
 
 ##See all his work :
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/3Ct8qgW0sE0" frameborder="0" allowfullscreen> </iframe>
-
-
-## Hard to believe it is oil on canvas painting, not a picture 
+ *Hard to believe it is oil on canvas painting, not a picture* 
 
 ![Coca Cola Cans Pedro Campos](http://bumbumbum.me/wp-content/uploads/2010/09/predro_campos7.jpg)
 
