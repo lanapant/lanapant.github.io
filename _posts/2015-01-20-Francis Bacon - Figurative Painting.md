@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Francis Bacon
+title: Francis Bacon (1909 - 1992)
 ---
-# Francis Bacon (1909 - 1992)
+
 
 ![Francis Bacon Picture](http://static.guim.co.uk/sys-images/Guardian/Archive/Search/2012/9/4/1346767879157/Francis-Bacon-011.jpg)
 
