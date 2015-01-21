@@ -20,7 +20,7 @@ Everyone I Have Ever Slept With 1963–1995 was a tent appliquéd with 102 names
 
 ![The Tent](http://upload.wikimedia.org/wikipedia/en/b/b9/Emin-Tent-Exterior.jpg)
 
-###My Bed 1998
+###My Bed, 1998
 
 The artwork generated considerable media furore, particularly over the fact that the bedsheets were stained with bodily secretions and the floor had items from the artist's room (such as condoms, a pair of knickers with menstrual period stains, other detritus, and functional, everyday objects, including a pair of slippers). The bed was presented in the state that Emin claimed it had been when she said she had not got up from it for several days due to suicidal depression brought on by relationship difficulties.
 
