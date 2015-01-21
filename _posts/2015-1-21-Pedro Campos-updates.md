@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Pedro Campos Hyperrealism
 ---
 [Nestor Github Page Link](http://nestor783.github.io/)
