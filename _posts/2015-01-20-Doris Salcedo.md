@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Doris Salcedo
+title: Doris Salcedo (1958 -  )
 ---
-#Doris Salcedo (1958 -  )
+
 
 ![Doris Salcedo Image](http://www-tc.pbs.org/art21/files/images/salcedo-doris.jpg)
 
