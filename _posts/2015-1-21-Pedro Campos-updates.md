@@ -6,4 +6,15 @@ title: Pedro Campos Hyperrealism
 
 [Pedro Capos](http://www.pedrocampos.net/)
 
+##See all his work :
+
 <iframe width="420" height="315" src="//www.youtube.com/embed/3Ct8qgW0sE0" frameborder="0" allowfullscreen> </iframe>
+
+
+## Hard to believe it is oil on canvas painting, not a picture 
+
+![Coca Cola Cans Pedro Campos](http://bumbumbum.me/wp-content/uploads/2010/09/predro_campos7.jpg)
+
+![Shoe Pedro Campos](http://trendland.com/wp-content/uploads/2013/02/pedro-campos-photorealistic-painting-07.jpg)
+
+![Pedro Campos at work](https://twistedsifter.files.wordpress.com/2012/04/artist-pedro-campos.jpg)
