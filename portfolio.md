@@ -1,11 +1,11 @@
 ---
 layout: page
-title: portfolio
+title: Portfolio Page
 permalink: /portfolio/
 ---
 
-#Lana Pant Portfolio Page
-[Project I](http://lanapant.github.io/project1/) | [Project II](http://lanapant.github.io/project2/) | [Project III](http://lanapant.github.io/project3/) | [Project IV](http://lanapant.github.io/project4/) | [Project V](http://lanapant.github.io/project5/)
+#Lana Pant 
+
 
 [![img](https://farm9.staticflickr.com/8571/16386701951_35dbe8be5c_b.jpg)](../project1)
 [![img](https://farm8.staticflickr.com/7537/15713614934_56a3d6c5e3_b.jpg)](../project2)
