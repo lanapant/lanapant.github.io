@@ -4,4 +4,9 @@ title: project3
 ---
 
 
-This is my project 3
+# Image Manipulation
+![pic](https://farm9.staticflickr.com/8563/16201371440_f915466d3c_b.jpg)
+
+## Description:
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer egestas suscipit elit, a cursus dui ullamcorper id. Praesent ultrices viverra turpis, et convallis magna tincidunt quis. Mauris convallis ligula ante, vel mattis leo tincidunt in. Sed varius erat ac nunc ultrices, id porttitor quam feugiat. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque sodales vitae nibh nec elementum. Vestibulum porta dapibus nisl, sed sollicitudin erat imperdiet at.
