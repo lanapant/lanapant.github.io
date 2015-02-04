@@ -4,6 +4,8 @@ title : Top 3 technical skills  web developers MUST know.
 ---
 ##JavaScript 
 
+![img](https://redhoop.com/blog/wp-content/uploads/2014/09/JavaScript.png)
+
 Is one of the most important and powerful language  to know for web developers.  It's not going anywhere any time soon. One of JavaScript advantages  -  all browser have JavaScript interpreters built in, no other languages have this advantage. There is a tremendous amount of  different combinations of operating systems, devices and screen sizes around Javascript.
 
 ##PHP
