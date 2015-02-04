@@ -2,6 +2,7 @@
 layout: post
 title:  Web Development is NOT web design.
 ---
+![img](http://hannondigital.com/wp-content/uploads/2014/01/Web-Development.jpg)
 
 ## The myth about web development 
 
