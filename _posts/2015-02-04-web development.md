@@ -2,6 +2,9 @@
 layout: post
 title:  Web Development is NOT web design.
 ---
+
+## The myth about web development 
+
 One of the biggest misunderstandings is that web development is the same as the web design, which is not true.Web development is taking the designer's work and turning it into a functional website.  We should consider that designers are the creative individuals who are focused on the overall look and feel of a website; while developers are the individuals who concentrate on the general performance aspects of the site.
 
 ##Web developers do more than just write code.
