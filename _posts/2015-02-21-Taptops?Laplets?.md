@@ -14,13 +14,13 @@ In October 2014, Intel launched the M processor, that allows to draw less than h
 #The best Hybrids on the market.
 
 ##Lenovo YOGA 3 PRO
-#Weight: 2.62lbs
-#Price: $1,300 
+###Weight: 2.62lbs
+###Price: $1,300 
 
 ##Dell Latitude 13
-#Weight: 3.67lbs
-#Price: $700
+###Weight: 3.67lbs
+###Price: $700
 
 ##Samsung Ativ Book
-#Weight: 2.09lbs 
-#Price: $1,200
+###Weight: 2.09lbs 
+###Price: $1,200
