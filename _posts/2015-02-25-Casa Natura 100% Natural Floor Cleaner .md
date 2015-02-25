@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Casa Natura 100% Natural Floor Cleaner 
 ---
 ![img](http://casanaturaproducts.com/wp-content/uploads/2014/07/Gardenia1200X480-1024x409.jpg)
