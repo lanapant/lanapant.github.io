@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: price
 title: Portfolio Page
 permalink: /price/
 ---
