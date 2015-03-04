@@ -1,6 +1,6 @@
 ---
 layout: price
-title: Portfolio Page
+title: Prices
 permalink: /price/
 ---
 <style>
