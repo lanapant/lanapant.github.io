@@ -1,6 +1,6 @@
 ---
-layout: post;
-title: Will the Apple Watch replace your traditional watch?;
+layout: post
+title: Will the Apple Watch replace your traditional watch?
 ---
 ![img](http://blogs-images.forbes.com/anthonykosner/files/2014/10/apple-watch-selling-points.jpg)
 Apple watch announcement made headlines on every news broadcasting network,on any tech blog, the apple stock price jumped tremendously. Everyone is going crazy about the apple watch and when the product will be delivered on the store shelves no doubt we will see lines of people lining up to get new toy.
