@@ -3,6 +3,8 @@ layout: post
 title: What do you need to know about building a website...
 ---
 ![img](https://origin.ih.constantcontact.com/fs170/1101398927957/img/310.jpg)
+
+
 As a regular business owner or just a person who wants to take to the next level and establish an online presence. There are  simple things that you should know.
 
 
