@@ -8,6 +8,8 @@ title: Tracey Emin (1963 -  )
 
 Tracey Emin is an English artist. She is part of the group known as Britartists or YBAs (Young British Artists).
 
+
+
 ## Her most famous work :
 
 ###Everyone I Have Ever Slept With 1963–1995 ("The Tent")
@@ -27,3 +29,8 @@ The artwork generated considerable media furore, particularly over the fact that
 *"My Bed" was sold in 2014 for $3.7 million*
 
 ![My Bed](https://propagandum.files.wordpress.com/2012/06/tracey-emin-my-bed.jpg)
+
+
+ Her latest work is a design of trophy for The 2015 Brit Awards. She designed the trophy in her "Tracey-ish" Style.
+ 
+ ![img](http://ichef.bbci.co.uk/news/660/media/images/79459000/jpg/_79459045_britstatue1_624reuters.jpg)
