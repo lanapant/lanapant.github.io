@@ -22,6 +22,6 @@ I’m a  web design student  at  Miami University of Art and Design. I am passio
 - Adobe Fireworks
 - Adobe InDesign
 
-### Contact me
+## Contact me
 
 [Email Lana Pant](mailto:contact@lanapant.com)
